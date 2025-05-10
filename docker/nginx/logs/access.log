@@ -1,0 +1,6 @@
+172.19.0.1 - - [10/May/2025:10:57:58 +0000] "GET / HTTP/1.1" 404 27 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0"
+172.19.0.1 - - [10/May/2025:10:58:00 +0000] "GET / HTTP/1.1" 404 27 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0"
+172.19.0.1 - - [10/May/2025:11:02:20 +0000] "GET / HTTP/1.1" 404 32292 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0"
+172.19.0.1 - - [10/May/2025:11:03:15 +0000] "GET / HTTP/1.1" 404 32308 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0"
+172.19.0.1 - - [10/May/2025:11:04:04 +0000] "GET / HTTP/1.1" 404 32308 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0"
+172.19.0.1 - - [10/May/2025:11:05:09 +0000] "GET / HTTP/1.1" 404 32308 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0"
